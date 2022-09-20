@@ -10,7 +10,7 @@ namespace Projeto_curso.Models
         public string? Nome { get; set; }
         
         public List<Pessoa> Alunos {get; set;}
-        
+
         public void AdicionarAluno(Pessoa aluno){
             Alunos.Add(aluno);
         }
@@ -24,8 +24,10 @@ namespace Projeto_curso.Models
         }
         public void ListarAlunos(){
             Console.WriteLine($"Alunos inscritos no curso de {Nome}:");
-            foreach(Pessoa aluno in Alunos){
-                Console.WriteLine(aluno.NomeCompleto);
+            for(int i =0; i < Alunos.Count(); i ++){
+                string texto = $"Nº {i+1} - {Alunos[i].NomeCompleto}";
+                Console.WriteLine(texto);
+
             }
         }
     }

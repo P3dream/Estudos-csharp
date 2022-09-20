@@ -9,3 +9,7 @@ curso.Alunos = new List<Pessoa>();
 curso.AdicionarAluno(p1);
 curso.AdicionarAluno(p2);
 curso.ListarAlunos();
+
+decimal valorMonetario = 1582.40M;
+
+Console.WriteLine($"{valorMonetario:C}");
