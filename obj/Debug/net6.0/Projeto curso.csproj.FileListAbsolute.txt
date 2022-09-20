@@ -1,0 +1,15 @@
+C:\Users\pedro\Desktop\Projeto curso\bin\Debug\net6.0\Projeto curso.exe
+C:\Users\pedro\Desktop\Projeto curso\bin\Debug\net6.0\Projeto curso.deps.json
+C:\Users\pedro\Desktop\Projeto curso\bin\Debug\net6.0\Projeto curso.runtimeconfig.json
+C:\Users\pedro\Desktop\Projeto curso\bin\Debug\net6.0\Projeto curso.dll
+C:\Users\pedro\Desktop\Projeto curso\bin\Debug\net6.0\Projeto curso.pdb
+C:\Users\pedro\Desktop\Projeto curso\obj\Debug\net6.0\Projeto curso.csproj.AssemblyReference.cache
+C:\Users\pedro\Desktop\Projeto curso\obj\Debug\net6.0\Projeto curso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\Desktop\Projeto curso\obj\Debug\net6.0\Projeto curso.AssemblyInfoInputs.cache
+C:\Users\pedro\Desktop\Projeto curso\obj\Debug\net6.0\Projeto curso.AssemblyInfo.cs
+C:\Users\pedro\Desktop\Projeto curso\obj\Debug\net6.0\Projeto curso.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Desktop\Projeto curso\obj\Debug\net6.0\Projeto curso.dll
+C:\Users\pedro\Desktop\Projeto curso\obj\Debug\net6.0\refint\Projeto curso.dll
+C:\Users\pedro\Desktop\Projeto curso\obj\Debug\net6.0\Projeto curso.pdb
+C:\Users\pedro\Desktop\Projeto curso\obj\Debug\net6.0\Projeto curso.genruntimeconfig.cache
+C:\Users\pedro\Desktop\Projeto curso\obj\Debug\net6.0\ref\Projeto curso.dll
